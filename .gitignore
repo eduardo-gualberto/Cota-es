@@ -1,5 +1,4 @@
 node_modules/
 src/env.ts
 dist/env.js
-hist_data/COTAHIST_A2020.TXT
-hist_data/data.zip
+hist_data/
