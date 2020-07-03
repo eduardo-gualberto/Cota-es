@@ -1,0 +1,5 @@
+node_modules/
+src/env.ts
+dist/env.js
+hist_data/
+dist/
