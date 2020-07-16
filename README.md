@@ -18,4 +18,11 @@ para rodar o projeto instalar o Node Package Manager na máquina e então execut
 
 ****Arquivos que especificam as variáveis de ambiente não foram inclusos no repositório
 
+# Tecnologia utilizada:
+## ECMAScript 6
+## MySQL
+## Node.JS
+## Express.JS
+## TypeScrpt
+
 Eduardo dos Santos Gualberto
